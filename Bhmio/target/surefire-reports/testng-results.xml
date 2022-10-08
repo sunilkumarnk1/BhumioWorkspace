@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[Welcome to test automation execution]]>
+    </line>
+    <line>
+      <![CDATA[Test is running in chrome and runmode as local]]>
+    </line>
+    <line>
+      <![CDATA[com.bhumio.workspace.testrunner.ProjectTestRunnner started execution]]>
+    </line>
+    <line>
+      <![CDATA[verifyHomePageTitle_Test_001 started execution]]>
+    </line>
+    <line>
+      <![CDATA[chrome browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Read expected title from properties file as: React App]]>
+    </line>
+    <line>
+      <![CDATA[React App]]>
+    </line>
+    <line>
+      <![CDATA[Got actual title from web page as: React App]]>
+    </line>
+    <line>
+      <![CDATA[Validation Completed]]>
+    </line>
+    <line>
+      <![CDATA[null result execution status passed is = true]]>
+    </line>
+    <line>
+      <![CDATA[verifyHomePageTitle_Test_001 execution is completed]]>
+    </line>
+    <line>
+      <![CDATA[chrome is closed]]>
+    </line>
+    <line>
+      <![CDATA[verifyAddAProject_Test_002 started execution]]>
+    </line>
+    <line>
+      <![CDATA[chrome browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add a Project]]>
+    </line>
+    <line>
+      <![CDATA[Entered Bhumio]]>
+    </line>
+    <line>
+      <![CDATA[Project Budget100000is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Entered Deadline 11/08/2023 09:00 pm]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add to add a Project]]>
+    </line>
+    <line>
+      <![CDATA[null result execution status passed is = true]]>
+    </line>
+    <line>
+      <![CDATA[verifyAddAProject_Test_002 execution is completed]]>
+    </line>
+    <line>
+      <![CDATA[chrome is closed]]>
+    </line>
+    <line>
+      <![CDATA[verifyCopyCard_Test_003 started execution]]>
+    </line>
+    <line>
+      <![CDATA[chrome browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add a Project]]>
+    </line>
+    <line>
+      <![CDATA[Entered Bhumio]]>
+    </line>
+    <line>
+      <![CDATA[Project Budget100000is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Entered Project Deadline 11/08/2023 09:00 pm]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Copy Card]]>
+    </line>
+    <line>
+      <![CDATA[null result execution status passed is = true]]>
+    </line>
+    <line>
+      <![CDATA[verifyCopyCard_Test_003 execution is completed]]>
+    </line>
+    <line>
+      <![CDATA[chrome is closed]]>
+    </line>
+    <line>
+      <![CDATA[verifyEditCard_Test_004 started execution]]>
+    </line>
+    <line>
+      <![CDATA[chrome browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add a Project]]>
+    </line>
+    <line>
+      <![CDATA[Entered Bhumio]]>
+    </line>
+    <line>
+      <![CDATA[Project Budget100000is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Project Deadline 11/08/2023 09:00 pm]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Edit Card]]>
+    </line>
+    <line>
+      <![CDATA[Entered updated Project Name]]>
+    </line>
+    <line>
+      <![CDATA[Updated Project Budget50000is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Updated project deadline is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Update]]>
+    </line>
+    <line>
+      <![CDATA[null result execution status passed is = true]]>
+    </line>
+    <line>
+      <![CDATA[verifyEditCard_Test_004 execution is completed]]>
+    </line>
+    <line>
+      <![CDATA[chrome is closed]]>
+    </line>
+    <line>
+      <![CDATA[verifyDeleteCard_Test_005 started execution]]>
+    </line>
+    <line>
+      <![CDATA[chrome browser is opened]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add a Project]]>
+    </line>
+    <line>
+      <![CDATA[Entered Bhumio]]>
+    </line>
+    <line>
+      <![CDATA[Project Budget100000is Entered]]>
+    </line>
+    <line>
+      <![CDATA[Project Deadline is entered 11/08/2023 09:00 pm]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Delete button]]>
+    </line>
+    <line>
+      <![CDATA[null result execution status passed is = true]]>
+    </line>
+    <line>
+      <![CDATA[verifyDeleteCard_Test_005 execution is completed]]>
+    </line>
+    <line>
+      <![CDATA[chrome is closed]]>
+    </line>
+    <line>
+      <![CDATA[com.bhumio.workspace.testrunner.ProjectTestRunnner completed execution]]>
+    </line>
+    <line>
+      <![CDATA[All Tests completed on browserchrome]]>
+    </line>
+    <line>
+      <![CDATA[All Tests Completed - Reports are available in target/surefire-reports/emailable-report.html]]>
+    </line>
+    <line>
+      <![CDATA[Screenshots are available in src/resources/screenshots folder]]>
+    </line>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="32219" started-at="2022-10-08T12:30:38 IST" finished-at="2022-10-08T12:31:10 IST">
+    <groups>
+      <group name="regression">
+        <method signature="ProjectTestRunnner.verifyHomePageTitle_Test_001()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="verifyHomePageTitle_Test_001" class="com.bhumio.workspace.testrunner.ProjectTestRunnner"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="ProjectTestRunnner.verifyHomePageTitle_Test_001()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="verifyHomePageTitle_Test_001" class="com.bhumio.workspace.testrunner.ProjectTestRunnner"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Bhmio" duration-ms="32219" started-at="2022-10-08T12:30:38 IST" finished-at="2022-10-08T12:31:10 IST">
+      <class name="com.bhumio.workspace.testrunner.ProjectTestRunnner">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="beforeSuite" is-config="true" duration-ms="11" started-at="2022-10-08T12:30:38 IST" finished-at="2022-10-08T12:30:38 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Welcome to test automation execution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="readTestConfig(java.lang.String,java.lang.String)[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="readTestConfig" is-config="true" duration-ms="4" started-at="2022-10-08T12:30:38 IST" finished-at="2022-10-08T12:30:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[local]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test is running in chrome and runmode as local]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- readTestConfig -->
+        <test-method status="PASS" signature="classLogger()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="classLogger" is-config="true" duration-ms="1" started-at="2022-10-08T12:30:38 IST" finished-at="2022-10-08T12:30:38 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[com.bhumio.workspace.testrunner.ProjectTestRunnner started execution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- classLogger -->
+        <test-method status="PASS" signature="init(java.lang.reflect.Method)[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="init" is-config="true" duration-ms="3726" started-at="2022-10-08T12:30:38 IST" finished-at="2022-10-08T12:30:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.bhumio.workspace.testrunner.ProjectTestRunnner.verifyHomePageTitle_Test_001() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyHomePageTitle_Test_001 started execution]]>
+            </line>
+            <line>
+              <![CDATA[chrome browser is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="verifyHomePageTitle_Test_001()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="verifyHomePageTitle_Test_001" duration-ms="36" started-at="2022-10-08T12:30:42 IST" finished-at="2022-10-08T12:30:42 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Read expected title from properties file as: React App]]>
+            </line>
+            <line>
+              <![CDATA[React App]]>
+            </line>
+            <line>
+              <![CDATA[Got actual title from web page as: React App]]>
+            </line>
+            <line>
+              <![CDATA[Validation Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle_Test_001 -->
+        <test-method status="PASS" signature="closure(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="closure" is-config="true" duration-ms="676" started-at="2022-10-08T12:30:42 IST" finished-at="2022-10-08T12:30:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyHomePageTitle_Test_001 status=SUCCESS method=ProjectTestRunnner.verifyHomePageTitle_Test_001()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256] output=Read expected title from properties file as: React App]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.bhumio.workspace.testrunner.ProjectTestRunnner.verifyHomePageTitle_Test_001() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[null result execution status passed is = true]]>
+            </line>
+            <line>
+              <![CDATA[verifyHomePageTitle_Test_001 execution is completed]]>
+            </line>
+            <line>
+              <![CDATA[chrome is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method status="PASS" signature="init(java.lang.reflect.Method)[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="init" is-config="true" duration-ms="2471" started-at="2022-10-08T12:30:42 IST" finished-at="2022-10-08T12:30:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.bhumio.workspace.testrunner.ProjectTestRunnner.verifyAddAProject_Test_002() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyAddAProject_Test_002 started execution]]>
+            </line>
+            <line>
+              <![CDATA[chrome browser is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="verifyAddAProject_Test_002()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="verifyAddAProject_Test_002" duration-ms="2864" started-at="2022-10-08T12:30:45 IST" finished-at="2022-10-08T12:30:48 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Add a Project]]>
+            </line>
+            <line>
+              <![CDATA[Entered Bhumio]]>
+            </line>
+            <line>
+              <![CDATA[Project Budget100000is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Entered Deadline 11/08/2023 09:00 pm]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add to add a Project]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAddAProject_Test_002 -->
+        <test-method status="PASS" signature="closure(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="closure" is-config="true" duration-ms="719" started-at="2022-10-08T12:30:48 IST" finished-at="2022-10-08T12:30:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAddAProject_Test_002 status=SUCCESS method=ProjectTestRunnner.verifyAddAProject_Test_002()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256] output=Clicked on Add a Project]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.bhumio.workspace.testrunner.ProjectTestRunnner.verifyAddAProject_Test_002() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[null result execution status passed is = true]]>
+            </line>
+            <line>
+              <![CDATA[verifyAddAProject_Test_002 execution is completed]]>
+            </line>
+            <line>
+              <![CDATA[chrome is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method status="PASS" signature="init(java.lang.reflect.Method)[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="init" is-config="true" duration-ms="3402" started-at="2022-10-08T12:30:48 IST" finished-at="2022-10-08T12:30:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.bhumio.workspace.testrunner.ProjectTestRunnner.verifyCopyCard_Test_003() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyCopyCard_Test_003 started execution]]>
+            </line>
+            <line>
+              <![CDATA[chrome browser is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="verifyCopyCard_Test_003()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="verifyCopyCard_Test_003" duration-ms="3010" started-at="2022-10-08T12:30:52 IST" finished-at="2022-10-08T12:30:55 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Add a Project]]>
+            </line>
+            <line>
+              <![CDATA[Entered Bhumio]]>
+            </line>
+            <line>
+              <![CDATA[Project Budget100000is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Entered Project Deadline 11/08/2023 09:00 pm]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Copy Card]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyCopyCard_Test_003 -->
+        <test-method status="PASS" signature="closure(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="closure" is-config="true" duration-ms="748" started-at="2022-10-08T12:30:55 IST" finished-at="2022-10-08T12:30:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCopyCard_Test_003 status=SUCCESS method=ProjectTestRunnner.verifyCopyCard_Test_003()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256] output=Clicked on Add a Project]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.bhumio.workspace.testrunner.ProjectTestRunnner.verifyCopyCard_Test_003() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[null result execution status passed is = true]]>
+            </line>
+            <line>
+              <![CDATA[verifyCopyCard_Test_003 execution is completed]]>
+            </line>
+            <line>
+              <![CDATA[chrome is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method status="PASS" signature="init(java.lang.reflect.Method)[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="init" is-config="true" duration-ms="1964" started-at="2022-10-08T12:30:56 IST" finished-at="2022-10-08T12:30:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.bhumio.workspace.testrunner.ProjectTestRunnner.verifyEditCard_Test_004() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyEditCard_Test_004 started execution]]>
+            </line>
+            <line>
+              <![CDATA[chrome browser is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="verifyEditCard_Test_004()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="verifyEditCard_Test_004" duration-ms="5614" started-at="2022-10-08T12:30:57 IST" finished-at="2022-10-08T12:31:03 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Add a Project]]>
+            </line>
+            <line>
+              <![CDATA[Entered Bhumio]]>
+            </line>
+            <line>
+              <![CDATA[Project Budget100000is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Project Deadline 11/08/2023 09:00 pm]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Edit Card]]>
+            </line>
+            <line>
+              <![CDATA[Entered updated Project Name]]>
+            </line>
+            <line>
+              <![CDATA[Updated Project Budget50000is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Updated project deadline is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Update]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyEditCard_Test_004 -->
+        <test-method status="PASS" signature="closure(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="closure" is-config="true" duration-ms="714" started-at="2022-10-08T12:31:03 IST" finished-at="2022-10-08T12:31:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyEditCard_Test_004 status=SUCCESS method=ProjectTestRunnner.verifyEditCard_Test_004()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256] output=Clicked on Add a Project]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.bhumio.workspace.testrunner.ProjectTestRunnner.verifyEditCard_Test_004() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[null result execution status passed is = true]]>
+            </line>
+            <line>
+              <![CDATA[verifyEditCard_Test_004 execution is completed]]>
+            </line>
+            <line>
+              <![CDATA[chrome is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method status="PASS" signature="init(java.lang.reflect.Method)[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="init" is-config="true" duration-ms="2643" started-at="2022-10-08T12:31:04 IST" finished-at="2022-10-08T12:31:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.bhumio.workspace.testrunner.ProjectTestRunnner.verifyDeleteCard_Test_005() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[verifyDeleteCard_Test_005 started execution]]>
+            </line>
+            <line>
+              <![CDATA[chrome browser is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="verifyDeleteCard_Test_005()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="verifyDeleteCard_Test_005" duration-ms="2926" started-at="2022-10-08T12:31:06 IST" finished-at="2022-10-08T12:31:09 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Add a Project]]>
+            </line>
+            <line>
+              <![CDATA[Entered Bhumio]]>
+            </line>
+            <line>
+              <![CDATA[Project Budget100000is Entered]]>
+            </line>
+            <line>
+              <![CDATA[Project Deadline is entered 11/08/2023 09:00 pm]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Delete button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteCard_Test_005 -->
+        <test-method status="PASS" signature="closure(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="closure" is-config="true" duration-ms="667" started-at="2022-10-08T12:31:09 IST" finished-at="2022-10-08T12:31:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyDeleteCard_Test_005 status=SUCCESS method=ProjectTestRunnner.verifyDeleteCard_Test_005()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256] output=Clicked on Add a Project]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.bhumio.workspace.testrunner.ProjectTestRunnner.verifyDeleteCard_Test_005() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[null result execution status passed is = true]]>
+            </line>
+            <line>
+              <![CDATA[verifyDeleteCard_Test_005 execution is completed]]>
+            </line>
+            <line>
+              <![CDATA[chrome is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method status="PASS" signature="classClosure()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="classClosure" is-config="true" duration-ms="0" started-at="2022-10-08T12:31:10 IST" finished-at="2022-10-08T12:31:10 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[com.bhumio.workspace.testrunner.ProjectTestRunnner completed execution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- classClosure -->
+        <test-method status="PASS" signature="testClosure()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="testClosure" is-config="true" duration-ms="0" started-at="2022-10-08T12:31:10 IST" finished-at="2022-10-08T12:31:10 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[All Tests completed on browserchrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testClosure -->
+        <test-method status="PASS" signature="executionCompleted()[pri:0, instance:com.bhumio.workspace.testrunner.ProjectTestRunnner@cb51256]" name="executionCompleted" is-config="true" duration-ms="2" started-at="2022-10-08T12:31:10 IST" finished-at="2022-10-08T12:31:10 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[All Tests Completed - Reports are available in target/surefire-reports/emailable-report.html]]>
+            </line>
+            <line>
+              <![CDATA[Screenshots are available in src/resources/screenshots folder]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executionCompleted -->
+      </class> <!-- com.bhumio.workspace.testrunner.ProjectTestRunnner -->
+    </test> <!-- Bhmio -->
+  </suite> <!-- Default Suite -->
+</testng-results>
